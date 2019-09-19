@@ -2,8 +2,8 @@ package main
 
 import (
 	"errors"
-	"mymath"
 	"fmt"
+	"study/mymath"
 )
 
 func main() {
